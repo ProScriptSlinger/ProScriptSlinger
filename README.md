@@ -10,7 +10,7 @@
     • Backend Development with Node.JS, GraphQL, Golang, .NET, Django, Laravel, Slim.
 
     • Blockchain Development (DeFi, NFT, DApps and DEX, Smart Contract with Solidity, Rust, Solana, etc)
-
+- 🌱 <a href="https://valdyslavportfolio.vercel.app/" target="blank">View Portfolio</a>
 - 💬 Ask me about **React, NextJS, VueJS**
 
 - 📫 How to reach me **vladislavstebnickij45@gmail.com**
