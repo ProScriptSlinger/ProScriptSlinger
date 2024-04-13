@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm ProScriptSlinger</h1>
-<h3 align="center">A passionate frontend developer from United States</h3>
+<h1 align="center">Hi 👋, I'm ProScriptSlinger, Vladyslav Stebnitskyi</h1>
+<h3 align="center">A passionate frontend developer from Ukraine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=proscriptslinger&label=Profile%20views&color=0e75b6&style=flat" alt="proscriptslinger" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, NextJS, VueJS**
 
-- 📫 How to reach me **stanley.davis.941105@gmail.com**
+- 📫 How to reach me **vladislavstebnickij45@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
