@@ -11,6 +11,10 @@
 
     • Blockchain Development (DeFi, NFT, DApps and DEX, Smart Contract with Solidity, Rust, Solana, etc)
 - 💬 Ask me about **React, NextJS, VueJS, Express, AWS, Hapi.js and Django**
+<div style="display: flex; justify-content: space-between;">
+[![ProScriptSlinger's GitHub | Stats](https://stats.quira.sh/ProScriptSlinger/github?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=ProScriptSlinger)
+[![ProScriptSlinger's Stack Overflow | Stats](https://stats.quira.sh/ProScriptSlinger/stack-overflow?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=ProScriptSlinger)
+</div>
 
 <br>
 <p align="center">
@@ -28,8 +32,6 @@
   </a>
 </p>
 
-[![ProScriptSlinger's GitHub | Stats](https://stats.quira.sh/ProScriptSlinger/github?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=ProScriptSlinger)
-[![ProScriptSlinger's Stack Overflow | Stats](https://stats.quira.sh/ProScriptSlinger/stack-overflow?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=ProScriptSlinger)
 
 <br>
 
