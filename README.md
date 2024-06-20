@@ -28,6 +28,9 @@
   </a>
 </p>
 
+[![ProScriptSlinger's GitHub | Stats](https://stats.quira.sh/ProScriptSlinger/github?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=ProScriptSlinger)
+[![ProScriptSlinger's Stack Overflow | Stats](https://stats.quira.sh/ProScriptSlinger/stack-overflow?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=ProScriptSlinger)
+
 <br>
 
 ![footer](https://github.com/aidenwong812/aidenwong812/blob/main/footer.jpg)
