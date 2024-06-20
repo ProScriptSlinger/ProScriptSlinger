@@ -34,9 +34,9 @@
 
 <p align="center">
   <a>
-    <img height="120" width="120" src="https://github.com/ProScriptSlinger/ProScriptSlinger/blob/main/left.png">
+    <img height="120" width="150" src="https://github.com/ProScriptSlinger/ProScriptSlinger/blob/main/left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ProScriptSlinger&theme=dark"/>
-    <img height="120" width="120" src="https://github.com/ProScriptSlinger/ProScriptSlinger/blob/main/right.png">
+    <img height="120" width="150" src="https://github.com/ProScriptSlinger/ProScriptSlinger/blob/main/right.png">
   </a>
 </p>
 
