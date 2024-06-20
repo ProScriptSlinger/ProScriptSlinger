@@ -12,12 +12,6 @@
     • Blockchain Development (DeFi, NFT, DApps and DEX, Smart Contract with Solidity, Rust, Solana, etc)
 - 💬 Ask me about **React, NextJS, VueJS**
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/highdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="highdev" height="30" width="40" /></a>
-</p>
-
 <br>
 <p align="center">
 <p><img align="left" src="https://github-readme-stats-proscripslinger.vercel.app/api/top-langs?username=ProScriptSlinger&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="ovi" /></p>
