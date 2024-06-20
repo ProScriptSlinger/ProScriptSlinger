@@ -30,10 +30,6 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats-proscriptslinger.vercel.app/api?username=ProScriptSlinger&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="ovi" width="410" /></p>
 <br><br>
 
-<!-- [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=ProScriptSlinger&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/ProScriptSlinger) -->
-
-<br>
-
 <p align="center">
   <a>
     <img height="120" width="140" src="https://github.com/ProScriptSlinger/ProScriptSlinger/blob/main/left.png">
