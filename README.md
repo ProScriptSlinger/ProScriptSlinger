@@ -23,13 +23,6 @@
   </a>
 </div>
 
-
-<br>
-<p align="center">
-<p><img align="left" src="https://github-readme-stats-proscriptslinger.vercel.app/api/top-langs?username=ProScriptSlinger&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats-proscriptslinger.vercel.app/api?username=ProScriptSlinger&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="ovi" width="410" /></p>
-<br><br><br><br><br><br><br>
-
 <p align="center">
   <a>
     <img height="120" width="150" src="https://github.com/ProScriptSlinger/ProScriptSlinger/blob/main/left.png">
