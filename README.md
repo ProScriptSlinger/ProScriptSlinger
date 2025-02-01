@@ -10,7 +10,7 @@
     • Backend Development with Node.JS, GraphQL, Golang, .NET,Flask, Django, Laravel, Slim.
 
     • Blockchain Development (DeFi, NFT, DApps and DEX, Smart Contract with Solidity, Rust, Solana, etc)
-- 💬 Ask me about **React, NextJS, VueJS, Express, AWS, Hapi.js, Flask and Django**
+- 💬 Ask me about **React, NextJS, VueJS, Express, AWS, .Net, Hapi.js, Flask and Django**
 
 <br>
 
