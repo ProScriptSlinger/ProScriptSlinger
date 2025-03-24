@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ProScriptSlinger&label=Profile%20views&color=0e75b6&style=flat" alt="ProScriptSlinger" /> </p>
 
-- 🌱 ###Senior Full stack developer.
+- 🌱 **Senior Full stack / Trading Software Enineer**
 
-- 🌱 ###Major Experiences
+- 🌱 **Major Experiences**
 
      •   **Algorithmic Trading Development:** Developed trading strategies on platforms like TradingView, QuantConnect, MetaTrader, Interactive Brokers API, TD Ameritrade API, and NinjaTrader. Proficient in creating custom alerts, scanners, and specialized research tools.
 
