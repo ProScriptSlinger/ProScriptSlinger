@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Trading Software / Full Stack Engineer</h1>
+<h1 align="center">Hi 👋, I'm Full Stack / Trading Software Engineer</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ProScriptSlinger&label=Profile%20views&color=0e75b6&style=flat" alt="ProScriptSlinger" /> </p>
 
@@ -8,7 +8,7 @@
 
      •   **Algorithmic Trading Development:** Developed trading strategies on platforms like TradingView, QuantConnect, MetaTrader, Interactive Brokers API, TD Ameritrade API, and NinjaTrader. Proficient in creating custom alerts, scanners, and specialized research tools.
 
-     •   **Programming Languages:** Expertise in Python, C#, TypeScript, with the ability to quickly learn proprietary languages used in various algo trading systems.
+     •   **Programming Languages:** Expertise in Python, C#, TypeScript,Rust and Go with the ability to quickly learn proprietary languages used in various algo trading systems.
 
      •   **Collaborations:** Successfully worked with clients ranging from individual retail traders to executives at multi • billion dollar funds, delivering efficient and effective results across diverse project sizes.
 
