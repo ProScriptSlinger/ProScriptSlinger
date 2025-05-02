@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Full Stack / Trading Software Engineer</h1>
+<h1 align="center">Hi 👋, I'm Full Stack Software Engineer</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ProScriptSlinger&label=Profile%20views&color=0e75b6&style=flat" alt="ProScriptSlinger" /> </p>
 
-- 🌱 **Senior Full stack / Trading Software Enineer**
+- 🌱 **Senior Full stack Software Enineer**
 
 - 🌱 **Major Experiences**
 
