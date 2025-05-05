@@ -8,17 +8,17 @@
 
      • Web design and Frontend Develpment: React.JS, Next.JS, Vue.JS, Angular, Svelte, Typescript, TailwindCSS
 
-• Backend Development: C#, Node.JS, Rust, GraphQL, Golang, Laravel
+     • Backend Development: C#, Node.JS, Rust, GraphQL, Golang, Laravel
 
-• Database: PostgreSQL, MySQL, MongoDB, Firebase, Supabase, Prisma, TypeORM
+     • Database: PostgreSQL, MySQL, MongoDB, Firebase, Supabase, Prisma, TypeORM
 
-• DevOps: CI/CD(Github, Gitlab, Bitbucket), AWS, Docker, Linux
+     • DevOps: CI/CD(Github, Gitlab, Bitbucket), AWS, Docker, Linux
 
-• Web-based 2D/3D graphics: Three.js, Babylon.js, Phaser, Pixi.js, GSAP
+     • Web-based 2D/3D graphics: Three.js, Babylon.js, Phaser, Pixi.js, GSAP
 
-• Blockchain Development: DePIN, DeFi, NFT, DApps, DEX, P2E and Smart Contract with Solidity, Rust and Cosmos SDK
+     • Blockchain Development: DePIN, DeFi, NFT, DApps, DEX, P2E and Smart Contract with Solidity, Rust and Cosmos SDK
 
-• Bot Development: Telegram Bot & Trading Bot Development(Sniper Bot, Volume Bot, Signal Bot, Launch Bundling Bot)
+     • Bot Development: Telegram Bot & Trading Bot Development(Sniper Bot, Volume Bot, Signal Bot, Launch Bundling Bot)
 
   
 
