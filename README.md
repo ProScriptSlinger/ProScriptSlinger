@@ -6,15 +6,19 @@
 
 - 🌱 **Major Experiences**
 
-     •   **Algorithmic Trading Development:** Developed trading strategies on platforms like TradingView, QuantConnect, MetaTrader, Interactive Brokers API, TD Ameritrade API, and NinjaTrader. Proficient in creating custom alerts, scanners, and specialized research tools.
+     • Web design and Frontend Develpment: React.JS, Next.JS, Vue.JS, Angular, Svelte, Typescript, TailwindCSS
 
-     •   **Programming Languages:** Expertise in Python, C#, TypeScript,Rust and Go with the ability to quickly learn proprietary languages used in various algo trading systems.
+• Backend Development: C#, Node.JS, Rust, GraphQL, Golang, Laravel
 
-     •   **Collaborations:** Successfully worked with clients ranging from individual retail traders to executives at multi • billion dollar funds, delivering efficient and effective results across diverse project sizes.
+• Database: PostgreSQL, MySQL, MongoDB, Firebase, Supabase, Prisma, TypeORM
 
-     •   **Trading Platforms:** Experienced in developing strategies for stocks, cryptocurrencies, and other financial instruments, with a focus on automation and optimization.
+• DevOps: CI/CD(Github, Gitlab, Bitbucket), AWS, Docker, Linux
 
-     •   **Project Management:** Managed development projects through the lens of a trader, ensuring that solutions meet both technical and trading requirements.
+• Web-based 2D/3D graphics: Three.js, Babylon.js, Phaser, Pixi.js, GSAP
+
+• Blockchain Development: DePIN, DeFi, NFT, DApps, DEX, P2E and Smart Contract with Solidity, Rust and Cosmos SDK
+
+• Bot Development: Telegram Bot & Trading Bot Development(Sniper Bot, Volume Bot, Signal Bot, Launch Bundling Bot)
 
   
 
